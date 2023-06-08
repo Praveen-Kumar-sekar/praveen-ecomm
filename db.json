@@ -1,0 +1,82 @@
+{
+  "seller": [
+    {
+      "name": "Praveen",
+      "email": "praveen@ecom.com",
+      "password": "praveen@123",
+      "id": 1
+    },
+    {
+      "name": "vishnu",
+      "email": "vishnu@ecom.com",
+      "password": "vishnu@123",
+      "id": 2
+    },
+    {
+      "name": "hassan",
+      "email": "hassan@ecom.com",
+      "password": "hassan@123",
+      "id": 3
+    },
+    {
+      "name": "macwin",
+      "password": "macwin@123",
+      "Email": "macwin@123",
+      "id": 4
+    },
+    {
+      "name": "macwin",
+      "password": "00000000000000",
+      "Email": "macwin@123",
+      "id": 5
+    },
+    {
+      "name": "sukesh",
+      "password": "sukesh123",
+      "Email": "sukesh@123",
+      "id": 6
+    },
+    {
+      "name": "",
+      "password": "",
+      "Email": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "password": "",
+      "Email": "",
+      "id": 8
+    },
+    {
+      "name": "ff",
+      "password": "fff",
+      "Email": "fff",
+      "id": 9
+    },
+    {
+      "name": "tytyt",
+      "password": "ytyt",
+      "Email": "tytyt",
+      "id": 10
+    },
+    {
+      "name": "hi",
+      "password": "hi",
+      "Email": "hii",
+      "id": 11
+    },
+    {
+      "name": "",
+      "password": "",
+      "Email": "",
+      "id": 12
+    },
+    {
+      "name": "ff",
+      "password": "ss",
+      "Email": "ss",
+      "id": 13
+    }
+  ]
+}
