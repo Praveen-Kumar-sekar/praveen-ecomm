@@ -3,10 +3,11 @@ nav {
     justify-content: space-between;
 }
 
-nav h1 {
+nav h1 a {
     color: blueviolet;
     font-size: 40px;
     margin: 0;
+    text-decoration: none;
 }
 
 nav .nav-search {

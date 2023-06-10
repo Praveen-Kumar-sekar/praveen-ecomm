@@ -7,76 +7,69 @@
       "id": 1
     },
     {
-      "name": "vishnu",
-      "email": "vishnu@ecom.com",
-      "password": "vishnu@123",
+      "name": "hi",
+      "password": "hi",
+      "email": "hi@hi.com",
       "id": 2
     },
     {
-      "name": "hassan",
-      "email": "hassan@ecom.com",
-      "password": "hassan@123",
+      "name": "hello",
+      "password": "hello",
+      "email": "hello@hello.com",
       "id": 3
     },
     {
-      "name": "macwin",
-      "password": "macwin@123",
-      "Email": "macwin@123",
+      "name": "priya",
+      "password": "priya",
+      "email": "priya@priya.com",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "I phone 14",
+      "price": "1500",
+      "color": "red",
+      "category": "mobile",
+      "description": "Hello, this the apple 14 with A bionic",
+      "image": "https://images.hindustantimes.com/tech/img/2022/09/27/1600x900/IMG_4704_1663335122108_1664279287080_1664279287080.jpg",
+      "id": 1
+    },
+    {
+      "name": "samsung note 23",
+      "price": "900",
+      "category": "mobile",
+      "color": "black",
+      "description": "it's samsung from korea",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCgk5uN7vw10nmt_ve6PC-EUxAWpbUeeLELA&usqp=CAU",
+      "id": 2
+    },
+    {
+      "name": "sadsa",
+      "price": "dada",
+      "category": "dada",
+      "color": "ada",
+      "description": "adaad",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCgk5uN7vw10nmt_ve6PC-EUxAWpbUeeLELA&usqp=CAU",
+      "id": 3
+    },
+    {
+      "name": "sadsa",
+      "price": "dada",
+      "category": "dada",
+      "color": "ada",
+      "description": "adaad",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCgk5uN7vw10nmt_ve6PC-EUxAWpbUeeLELA&usqp=CAU",
       "id": 4
     },
     {
-      "name": "macwin",
-      "password": "00000000000000",
-      "Email": "macwin@123",
+      "name": "dasd",
+      "price": "n",
+      "category": "n",
+      "color": "n",
+      "description": "n",
+      "image": "n",
       "id": 5
-    },
-    {
-      "name": "sukesh",
-      "password": "sukesh123",
-      "Email": "sukesh@123",
-      "id": 6
-    },
-    {
-      "name": "",
-      "password": "",
-      "Email": "",
-      "id": 7
-    },
-    {
-      "name": "",
-      "password": "",
-      "Email": "",
-      "id": 8
-    },
-    {
-      "name": "ff",
-      "password": "fff",
-      "Email": "fff",
-      "id": 9
-    },
-    {
-      "name": "tytyt",
-      "password": "ytyt",
-      "Email": "tytyt",
-      "id": 10
-    },
-    {
-      "name": "hi",
-      "password": "hi",
-      "Email": "hii",
-      "id": 11
-    },
-    {
-      "name": "",
-      "password": "",
-      "Email": "",
-      "id": 12
-    },
-    {
-      "name": "ff",
-      "password": "ss",
-      "Email": "ss",
-      "id": 13
     }
   ]
 }

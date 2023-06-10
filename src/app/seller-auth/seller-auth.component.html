@@ -4,7 +4,7 @@
         <form class="common-form " #sellerSignUp="ngForm" (ngSubmit)="signUp(sellerSignUp.value)">
             <input type="text" class="form-input " placeholder="Enter Name" name="name" ngModel>
             <input type="password" class="form-input " placeholder="Enter Paswword" name="password" ngModel>
-            <input type="email" class="form-input " placeholder="Enter the Email" name="Email" ngModel>
+            <input type="email" class="form-input " placeholder="Enter the Email" name="email" ngModel>
             <button class="form-button">Sign Up</button>
             <a class="auth-toggle-link" (click)="openLogin()">Already have a account?? Please Login</a>
         </form>
@@ -12,6 +12,7 @@
 
     <div *ngIf="showLogin" class="login">
         <h1 class="text-center">Seller Login-In</h1>
+        <p class="error-p">{{authError}}</p>
         <form class="common-form " #sellerLoginIn="ngForm" (ngSubmit)="login(sellerLoginIn.value)">
             <input type="email" class="form-input " placeholder="Enter the Email" name="email" ngModel>
             <input type="password" class="form-input " placeholder="Enter Paswword" name="password" ngModel>

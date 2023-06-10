@@ -32,3 +32,11 @@ a {
     color: blueviolet;
     cursor: pointer;
 }
+
+.error-p {
+    color: red;
+}
+
+.message-p {
+    color: green;
+}
